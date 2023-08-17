@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: NIT Warangal
-// Engineer: Prakash Sharma
-// 
-// Create Date: 23.07.2023 01:49:38
-// Design Name: 
-// Module Name: Vending_Machine
-// Project Name: Vending Machine Controller Using Verilog HDL
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 module VendingMachine(
     input clk,                    // Clock signal
     input rst,                    // Reset signal
